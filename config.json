@@ -1,0 +1,15 @@
+{
+  "output_mode": "same_folder",
+  "output_folder": "",
+  "quality_level": "balanced",
+  "compression_mode": "auto",
+  "theme": "dark",
+  "remove_metadata": true,
+  "remove_revisions": false,
+  "convert_images_to_webp": false,
+  "custom_image_quality": 75,
+  "log_level": "DEBUG",
+  "window_geometry": "1280x780+264+124",
+  "window_maximized": false,
+  "last_output_folder": ""
+}

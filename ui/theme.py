@@ -49,51 +49,51 @@ class ColorPalette:
 
 
 DARK = ColorPalette(
-    bg_primary="#0F1117",
-    bg_secondary="#161B22",
-    bg_card="#1C2128",
-    bg_hover="#21262D",
-    bg_selected="#3A2B4C",
+    bg_primary="#093C5D",
+    bg_secondary="#052033",
+    bg_card="#0C456A",
+    bg_hover="#145580",
+    bg_selected="#1C6494",
 
-    text_primary="#E6EDF3",
-    text_secondary="#8B949E",
-    text_muted="#484F58",
-    text_on_accent="#FFFFFF",
+    text_primary="#EFFFFD",
+    text_secondary="#B8FFF9",
+    text_muted="#A9CADF",
+    text_on_accent="#052033",
 
-    accent_primary="#b741c4",
-    accent_hover="#9d2ea8",
-    accent_light="#3a2b4c",
+    accent_primary="#5DF8D8",
+    accent_hover="#6FD1D7",
+    accent_light="#3B7597",
 
-    success="#3FB950",
-    success_bg="#0D2B14",
-    warning="#D29922",
-    warning_bg="#2B1D00",
-    error="#F85149",
-    error_bg="#2B0E0E",
-    processing="#b741c4",
+    success="#26E6A2",
+    success_bg="#082A1D",
+    warning="#F1C40F",
+    warning_bg="#2D2503",
+    error="#E74C3C",
+    error_bg="#2D0F0C",
+    processing="#5DF8D8",
 
-    border="#30363D",
-    border_focus="#b741c4",
+    border="#3B7597",
+    border_focus="#5DF8D8",
 
-    drop_border="#b741c4",
-    drop_bg="#161B22",
+    drop_border="#5DF8D8",
+    drop_bg="#0A324C",
 )
 
 LIGHT = ColorPalette(
-    bg_primary="#F9FAFB",
-    bg_secondary="#FFFFFF",
+    bg_primary="#EFFFFD",
+    bg_secondary="#B8FFF9",
     bg_card="#FFFFFF",
-    bg_hover="#F3F4F6",
-    bg_selected="#F3E8FF",
+    bg_hover="#DFFDFF",
+    bg_selected="#85F4FF",
 
-    text_primary="#111827",
-    text_secondary="#4B5563",
-    text_muted="#9CA3AF",
-    text_on_accent="#FFFFFF",
+    text_primary="#052033",
+    text_secondary="#1D557A",
+    text_muted="#3B7597",
+    text_on_accent="#052033",
 
-    accent_primary="#b741c4",
-    accent_hover="#9d2ea8",
-    accent_light="#ebd5fc",
+    accent_primary="#42C2FF",
+    accent_hover="#00B2FF",
+    accent_light="#85F4FF",
 
     success="#10B981",
     success_bg="#D1FAE5",
@@ -101,13 +101,13 @@ LIGHT = ColorPalette(
     warning_bg="#FEF3C7",
     error="#EF4444",
     error_bg="#FEE2E2",
-    processing="#b741c4",
+    processing="#42C2FF",
 
-    border="#E5E7EB",
-    border_focus="#b741c4",
+    border="#85F4FF",
+    border_focus="#42C2FF",
 
-    drop_border="#c084fc",
-    drop_bg="#FAF5FF",
+    drop_border="#42C2FF",
+    drop_bg="#EFFFFD",
 )
 
 
